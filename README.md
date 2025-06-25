@@ -1,8 +1,8 @@
-# Hola soy Karim 🖐
+# Carta Presentacion con CSS 
 
 Esta página es una carta de presentación con una breve descripción mía.
 
-Incluí **CSS** y **HTML**, y utilicé propiedades básicas de CSS para no recurrir a **Flexbox**, como se pedía en el práctico.
+Incluí **CSS**, **HTML**, utilicé propiedades básicas de CSS para no recurrir a **Flexbox** y se cambio la fuente mediante un `import` de **google fonts** como se pedía en el práctico.
 
 Modifiqué la posición de la imagen usando las propiedades `position`, `left` y `top`.
 
