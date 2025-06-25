@@ -14,6 +14,45 @@
 
 
 main{
-    background-color: aqua;
-    padding: 10px 5px
+    background-color: rgb(255, 244, 85);
+    padding: 10px 5px;
+    color: black;
+    height: 80vh;
+}
+
+h1{
+    text-align: center;
+    font-size: 30px;
+}
+
+h3{
+    padding: 3px 30px;
+    margin: 0 50px;
+    border-bottom: solid black 3px;
+    width: 15%;
+    font-size: 25px;
+}
+
+p{
+    padding: 15px 10px;
+    margin: 25px;
+    border: double black 4px;
+    text-align: center;
+    width: 40%;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.foto{
+    position: absolute;
+    border-radius: 60px;
+    left: 60%;
+    top: 10px;
+    height: 30vh;
+    cursor: pointer;
+    transition: all 0.7s ease;
+}
+
+.foto:hover{
+    transform: scale(1.1);
 }
