@@ -22,7 +22,7 @@ main{
 
 h1{
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 h3{
@@ -46,8 +46,8 @@ p{
 .foto{
     position: absolute;
     border-radius: 60px;
-    left: 60%;
-    top: 10px;
+    left: 45%;
+    top: 70px;
     height: 30vh;
     cursor: pointer;
     transition: all 0.7s ease;
